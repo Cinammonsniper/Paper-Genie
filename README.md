@@ -7,7 +7,11 @@ Paper Genie is a lightweight application I developed during my A-levels to strea
 - Scrapes data from [GCE Guide](https://papers.gceguide.cc/).
 - Custom API built to interact efficiently with the website.
 
-## Dependencies
+![Screenshot_2](https://github.com/user-attachments/assets/2a04fc94-dd08-4bd5-ad15-5685a309a801)
+
+
+## Dependencies!
+
 Paper Genie relies on the following external libraries:
 
 - `tkinter` (for the GUI)
